@@ -14,7 +14,7 @@ A simple and interactive todo list application built with vanilla JavaScript, HT
 
 ## Demo
 
-![TODO App Screenshot](img/Screenshot 2026-01-02 121040.png) _
+[TODO App Screenshot](img/Screenshot 2026-01-02 121040.png) _(Add a screenshot of your app here)_
 
 ## Technologies Used
 
