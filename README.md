@@ -14,7 +14,7 @@ A simple and interactive todo list application built with vanilla JavaScript, HT
 
 ## Demo
 
-![TODO App Screenshot](screenshot.png) _(Add a screenshot of your app here)_
+![TODO App Screenshot](img/Screenshot 2026-01-02 121040.png) _
 
 ## Technologies Used
 
@@ -24,26 +24,7 @@ A simple and interactive todo list application built with vanilla JavaScript, HT
 - **Local Storage API** - Data persistence
 - **tsParticles Confetti** - Celebration effects
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Yashshinde17/TODO-APP.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd TODO-APP
-```
-
-3. Open `index.html` in your web browser or use a local server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js (http-server)
-npx http-server
-```
 
 ## Usage
 
@@ -106,19 +87,9 @@ TODO-APP/
 - [ ] Search and filter functionality
 - [ ] Multiple todo lists
 
-## Contributing
 
-Contributions are welcome! Feel free to submit issues and pull requests.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
