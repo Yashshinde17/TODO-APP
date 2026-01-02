@@ -12,9 +12,7 @@ A simple and interactive todo list application built with vanilla JavaScript, HT
 - 💾 **Local Storage** - Tasks persist even after closing the browser
 - 🎉 **Celebration Effects** - Confetti animation when all tasks are completed
 
-## Demo
 
-[TODO App Screenshot](img/Screenshot 2026-01-02 121040.png) _(Add a screenshot of your app here)_
 
 ## Technologies Used
 
@@ -76,19 +74,6 @@ TODO-APP/
 - ✅ Firefox (latest)
 - ✅ Safari (latest)
 - ✅ Edge (latest)
-
-## Future Enhancements
-
-- [ ] Add task categories/tags
-- [ ] Due dates and reminders
-- [ ] Task priority levels
-- [ ] Dark mode toggle
-- [ ] Export/Import tasks
-- [ ] Search and filter functionality
-- [ ] Multiple todo lists
-
-
-
 
 
 ## Author
